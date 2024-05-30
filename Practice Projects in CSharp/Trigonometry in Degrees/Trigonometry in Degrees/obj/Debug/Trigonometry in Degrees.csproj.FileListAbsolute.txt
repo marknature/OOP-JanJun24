@@ -1,0 +1,6 @@
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Trigonometry in Degrees\Trigonometry in Degrees\bin\Debug\Trigonometry in Degrees.exe.config
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Trigonometry in Degrees\Trigonometry in Degrees\bin\Debug\Trigonometry in Degrees.exe
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Trigonometry in Degrees\Trigonometry in Degrees\bin\Debug\Trigonometry in Degrees.pdb
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Trigonometry in Degrees\Trigonometry in Degrees\obj\Debug\Trigonometry in Degrees.csprojResolveAssemblyReference.cache
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Trigonometry in Degrees\Trigonometry in Degrees\obj\Debug\Trigonometry in Degrees.exe
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Trigonometry in Degrees\Trigonometry in Degrees\obj\Debug\Trigonometry in Degrees.pdb
