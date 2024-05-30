@@ -1,0 +1,309 @@
+<mxfile host="app.diagrams.net" modified="2024-02-05T21:34:30.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="pPkkuVG0_KmvQ_jLci2p" version="23.1.1" type="device">
+  <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
+    <mxGraphModel dx="1886" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="123" value="" style="fillColor=#AE4132;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="747" y="210" width="210" height="65.5" as="geometry" />
+        </mxCell>
+        <mxCell id="122" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="97" y="325.5" width="1470" height="99.99999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="120" value="" style="fillColor=#F2931E;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="967" y="445.5" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="118" value="" style="fillColor=#F2931E;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="230" y="445.5" width="150" height="304.5" as="geometry" />
+        </mxCell>
+        <mxCell id="117" value="" style="fillColor=#F2931E;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="380" y="543" width="1330" height="167" as="geometry" />
+        </mxCell>
+        <mxCell id="116" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="770" y="589.5000000000002" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="115" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="1347" y="720" width="303" height="174.5" as="geometry" />
+        </mxCell>
+        <mxCell id="114" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="349.9999999999999" y="660.0000000000001" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="112" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="557.75" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="111" value="" style="fillColor=#D9EAD3;strokeColor=none" parent="1" vertex="1">
+          <mxGeometry x="47" y="535.5000000000001" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="110" value="" style="fillColor=#12AAB5;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="1207" y="445.5000000000001" width="500" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="109" value="" style="fillColor=#12AAB5;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="390" y="445.5" width="500" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="108" value="" style="fillColor=#12AAB5;strokeColor=none;opacity=30;" parent="1" vertex="1">
+          <mxGeometry x="47.000000000000014" y="445.5" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="user authentication" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="757" y="220" width="190" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Validate user" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1361.9999999999998" y="335.5" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="2" target="4" edge="1">
+          <mxGeometry x="337" y="215.5" width="100" height="100" as="geometry">
+            <mxPoint x="337" y="315.5" as="sourcePoint" />
+            <mxPoint x="437" y="215.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="Initialise Stored Credentials" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="630" y="335.5" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Get user input" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="109.99999999999989" y="335.5" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="input&#xa;&#xa;two separate &#xa;strings keyed in&#xa;by the user" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="57" y="455.5" width="130" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="Process&#xa;&#xa;Prompt user for &#xa;their username then store&#xa;inputted response&#xa;in Username" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="247" y="465.5" width="193" height="104.5" as="geometry" />
+        </mxCell>
+        <mxCell id="32" value="Prompt user for their &#xa;password then store inputted&#xa;UserPassword varuable" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="247" y="610.5" width="213" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="33" value="    Output&#xa;&#xa;entered string &#xa;written to UserName&#xa;" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="480" y="465.5" width="173" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="34" value="Entered string &#xa;written to UserPasword" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="480" y="589.5" width="173" height="84.5" as="geometry" />
+        </mxCell>
+        <mxCell id="41" value="Output" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="977" y="455.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="42" value="StoredUN&#xa;StoredPW" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="977" y="545.5" width="143" height="64.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vE6-1PMtYfTRwzguCCtr-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="812" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="812" y="450" />
+              <mxPoint x="812" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="43" value="Process&#xa;&#xa;Write the hardcoded&#xa;StoredUN value &#xa;to the StoredUN varriable," style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="710" y="460.5" width="200" height="99.5" as="geometry" />
+        </mxCell>
+        <mxCell id="44" value="Input" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1217" y="455.50000000000006" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="45" value="UserName&#xa;StoredUN" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1217" y="545.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="46" value="UserPassword&#xa;StoredPW" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1217" y="635.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="48" value="Process" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1392" y="455.50000000000006" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="49" value="Set a bValid&#xa;boolean to false." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1392" y="545.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="50" value="Compare the values in&#xa;UserName and StoredUN" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1392" y="620" width="178" height="74.5" as="geometry" />
+        </mxCell>
+        <mxCell id="51" value="if UserName == StoredUN &#xa;then compare the values in &#xa;UserPassword and StoredPW" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1392" y="725.5" width="218" height="64.5" as="geometry" />
+        </mxCell>
+        <mxCell id="52" value="Output" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1567" y="455.50000000000006" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="53" value="Programming" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1567" y="545.5" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="54" value="if they are ALSO&#xa; the same then &#xa;set bValid to True." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1392" y="810" width="158" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="58" value="Write the hardcoded&#xa;StoredPW value to the &#xa;StoredPW varible." style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="727.5" y="600" width="172.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="59" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="2" target="12" edge="1">
+          <mxGeometry x="347" y="225.5" width="100" height="100" as="geometry">
+            <mxPoint x="861.9999999999999" y="275.5" as="sourcePoint" />
+            <mxPoint x="1466.9999999999998" y="345.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="75" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0;endArrow=none;endFill=0;" parent="1" source="29" target="32" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="660" />
+              <mxPoint x="240" y="500" />
+              <mxPoint x="567" y="615.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="76" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0;endArrow=none;endFill=0;" parent="1" source="33" target="34" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="82" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0;endArrow=classic;endFill=1;" parent="1" source="41" target="42" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="957" y="535.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="84" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="44" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="1216.9999999999998" y="515.5" as="sourcePoint" />
+            <mxPoint x="1216.9999999999998" y="575.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1197" y="575.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="44" target="46" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1197" y="575.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="87" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="48" target="49" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1367" y="535.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="88" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="48" target="50" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1367" y="595.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="89" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="48" target="51" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1367" y="760" />
+              <mxPoint x="1367" y="625.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0" parent="1" source="52" target="53" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1547" y="535.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="100" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="204.9999999999999" y="425.5" as="sourcePoint" />
+            <mxPoint x="122" y="455.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="101" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0;entryX=0.553;entryY=0.056;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="12" target="118" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="102" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="12" target="33" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="103" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="10" target="41" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="104" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="4" target="48" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="105" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="4" target="44" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="106" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="4" target="52" edge="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="-23" y="235.5" as="sourcePoint" />
+            <mxPoint x="77" y="135.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vE6-1PMtYfTRwzguCCtr-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="25" target="25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vE6-1PMtYfTRwzguCCtr-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="118" target="118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vE6-1PMtYfTRwzguCCtr-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.325;entryY=0.379;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="43" target="117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vE6-1PMtYfTRwzguCCtr-158" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeWidth=2;rounded=0;endArrow=classic;endFill=1;" edge="1" parent="1">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="1375" y="759.5" as="sourcePoint" />
+            <mxPoint x="1392" y="841.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1375" y="841.5" />
+              <mxPoint x="1385" y="681.5" />
+              <mxPoint x="1712" y="797" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vE6-1PMtYfTRwzguCCtr-159" value="inputs" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="880" width="185" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vE6-1PMtYfTRwzguCCtr-162" value="&lt;ul style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; font-family: verdana; font-size: 14.6667px; text-align: left; background-color: rgb(255, 255, 255);&quot; role=&quot;list&quot; class=&quot;BulletListStyle1 SCXW162245583 BCX8&quot;&gt;&lt;li style=&quot;margin: 0px 0px 0px 24px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; clear: both; position: relative; direction: ltr; display: block; font-size: 12pt; font-family: Calibri, Calibri_MSFontService, sans-serif; vertical-align: baseline;&quot; class=&quot;OutlineElement Ltr SCXW162245583 BCX8&quot; role=&quot;listitem&quot; data-aria-level=&quot;1&quot; data-aria-posinset=&quot;1&quot; aria-setsize=&quot;-1&quot; data-list-defn-props=&quot;{&amp;quot;134225954&amp;quot;:true,&amp;quot;134225961&amp;quot;:true,&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-listid=&quot;1&quot; data-font=&quot;Symbol&quot; data-leveltext=&quot;&quot;&gt;&lt;p style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow-wrap: break-word; vertical-align: baseline; font-kerning: none; background-color: transparent; color: windowtext;&quot; lang=&quot;EN-GB&quot; class=&quot;Paragraph SCXW162245583 BCX8&quot;&gt;4-digit pin&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 12pt; line-height: 20.5042px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:160,&amp;quot;335559740&amp;quot;:259}&quot; class=&quot;EOP SCXW162245583 BCX8&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 0px 24px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; clear: both; position: relative; direction: ltr; display: block; font-size: 12pt; font-family: Calibri, Calibri_MSFontService, sans-serif; vertical-align: baseline;&quot; class=&quot;OutlineElement Ltr SCXW162245583 BCX8&quot; role=&quot;listitem&quot; data-aria-level=&quot;1&quot; data-aria-posinset=&quot;2&quot; aria-setsize=&quot;-1&quot; data-list-defn-props=&quot;{&amp;quot;134225954&amp;quot;:true,&amp;quot;134225961&amp;quot;:true,&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-listid=&quot;1&quot; data-font=&quot;Symbol&quot; data-leveltext=&quot;&quot;&gt;&lt;p style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow-wrap: break-word; vertical-align: baseline; font-kerning: none; background-color: transparent; color: windowtext;&quot; lang=&quot;EN-GB&quot; class=&quot;Paragraph SCXW162245583 BCX8&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 12pt; line-height: 20.5042px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; font-variant-ligatures: none !important;&quot; class=&quot;TextRun SCXW162245583 BCX8&quot; lang=&quot;EN-GB&quot; data-contrast=&quot;auto&quot;&gt;new &lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-variant-ligatures: none !important; font-size: 12pt; line-height: 20.5042px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot; class=&quot;TextRun SCXW162245583 BCX8&quot; lang=&quot;EN-GB&quot; data-contrast=&quot;auto&quot;&gt;pin&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 12pt; line-height: 20.5042px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:160,&amp;quot;335559740&amp;quot;:259}&quot; class=&quot;EOP SCXW162245583 BCX8&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 0px 24px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; clear: both; position: relative; direction: ltr; display: block; font-size: 12pt; font-family: Calibri, Calibri_MSFontService, sans-serif; vertical-align: baseline;&quot; class=&quot;OutlineElement Ltr SCXW162245583 BCX8&quot; role=&quot;listitem&quot; data-aria-level=&quot;1&quot; data-aria-posinset=&quot;3&quot; aria-setsize=&quot;-1&quot; data-list-defn-props=&quot;{&amp;quot;134225954&amp;quot;:true,&amp;quot;134225961&amp;quot;:true,&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-listid=&quot;1&quot; data-font=&quot;Symbol&quot; data-leveltext=&quot;&quot;&gt;&lt;p style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow-wrap: break-word; vertical-align: baseline; font-kerning: none; background-color: transparent; color: windowtext;&quot; lang=&quot;EN-GB&quot; class=&quot;Paragraph SCXW162245583 BCX8&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-variant-ligatures: none !important; font-size: 12pt; line-height: 20.5042px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot; class=&quot;TextRun SCXW162245583 BCX8&quot; lang=&quot;EN-GB&quot; data-contrast=&quot;auto&quot;&gt;Student identification&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 12pt; line-height: 20.5042px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot; data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:160,&amp;quot;335559740&amp;quot;:259}&quot; class=&quot;EOP SCXW162245583 BCX8&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vE6-1PMtYfTRwzguCCtr-159">
+          <mxGeometry y="20" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vE6-1PMtYfTRwzguCCtr-160" value="Output" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="817" y="846.25" width="450" height="167.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vE6-1PMtYfTRwzguCCtr-171" value="&lt;ul style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; font-family: verdana; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot; role=&quot;list&quot; class=&quot;BulletListStyle1 SCXW31154275 BCX8&quot;&gt;&lt;li style=&quot;margin: 0px 0px 0px 24px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; clear: both; position: relative; direction: ltr; display: block; font-size: 12pt; font-family: Calibri, Calibri_MSFontService, sans-serif; vertical-align: baseline;&quot; class=&quot;OutlineElement Ltr SCXW31154275 BCX8&quot; role=&quot;listitem&quot; data-aria-level=&quot;1&quot; data-aria-posinset=&quot;6&quot; aria-setsize=&quot;-1&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-listid=&quot;3&quot; data-font=&quot;Symbol&quot; data-leveltext=&quot;&quot;&gt;&lt;p style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow-wrap: break-word; vertical-align: baseline; font-kerning: none; background-color: transparent; color: windowtext;&quot; lang=&quot;EN-GB&quot; class=&quot;Paragraph SCXW31154275 BCX8&quot;&gt;Only if they match will the user be granted access.&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 12pt; line-height: 20.5042px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; color: windowtext;&quot; data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:160,&amp;quot;335559740&amp;quot;:259}&quot; class=&quot;EOP SCXW31154275 BCX8&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 0px 24px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; clear: both; position: relative; direction: ltr; display: block; font-size: 12pt; font-family: Calibri, Calibri_MSFontService, sans-serif; vertical-align: baseline;&quot; class=&quot;OutlineElement Ltr SCXW31154275 BCX8&quot; role=&quot;listitem&quot; data-aria-level=&quot;1&quot; data-aria-posinset=&quot;7&quot; aria-setsize=&quot;-1&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-listid=&quot;3&quot; data-font=&quot;Symbol&quot; data-leveltext=&quot;&quot;&gt;&lt;p style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow-wrap: break-word; vertical-align: baseline; font-kerning: none; background-color: transparent; color: windowtext;&quot; lang=&quot;EN-GB&quot; class=&quot;Paragraph SCXW31154275 BCX8&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; color: windowtext; font-size: 12pt; line-height: 20.5042px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot; class=&quot;TextRun SCXW31154275 BCX8&quot; lang=&quot;EN-GB&quot; data-contrast=&quot;auto&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent;&quot; class=&quot;NormalTextRun SCXW31154275 BCX8&quot;&gt;If they &lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent;&quot; class=&quot;NormalTextRun SCXW31154275 BCX8&quot;&gt;don’t&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent;&quot; class=&quot;NormalTextRun SCXW31154275 BCX8&quot;&gt; match&amp;nbsp;the user will not be granted access.&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 12pt; line-height: 20.5042px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; color: windowtext;&quot; data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:160,&amp;quot;335559740&amp;quot;:259}&quot; class=&quot;EOP SCXW31154275 BCX8&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 0px 24px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; clear: both; position: relative; direction: ltr; display: block; font-size: 12pt; font-family: Calibri, Calibri_MSFontService, sans-serif; vertical-align: baseline;&quot; class=&quot;OutlineElement Ltr SCXW31154275 BCX8&quot; role=&quot;listitem&quot; data-aria-level=&quot;1&quot; data-aria-posinset=&quot;8&quot; aria-setsize=&quot;-1&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-listid=&quot;3&quot; data-font=&quot;Symbol&quot; data-leveltext=&quot;&quot;&gt;&lt;p style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow-wrap: break-word; vertical-align: baseline; font-kerning: none; background-color: transparent; color: windowtext;&quot; lang=&quot;EN-GB&quot; class=&quot;Paragraph SCXW31154275 BCX8&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-variant-ligatures: none !important; color: windowtext; font-size: 12pt; line-height: 20.5042px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot; class=&quot;TextRun SCXW31154275 BCX8&quot; lang=&quot;EN-GB&quot; data-contrast=&quot;auto&quot;&gt;Password has been changed successfully.&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 12pt; line-height: 20.5042px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; color: windowtext;&quot; data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:160,&amp;quot;335559740&amp;quot;:259}&quot; class=&quot;EOP SCXW31154275 BCX8&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 0px 24px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; clear: both; position: relative; direction: ltr; display: block; font-size: 12pt; font-family: Calibri, Calibri_MSFontService, sans-serif; vertical-align: baseline;&quot; class=&quot;OutlineElement Ltr SCXW31154275 BCX8&quot; role=&quot;listitem&quot; data-aria-level=&quot;1&quot; data-aria-posinset=&quot;9&quot; aria-setsize=&quot;-1&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-listid=&quot;3&quot; data-font=&quot;Symbol&quot; data-leveltext=&quot;&quot;&gt;&lt;p style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow-wrap: break-word; vertical-align: baseline; font-kerning: none; background-color: transparent; color: windowtext;&quot; lang=&quot;EN-GB&quot; class=&quot;Paragraph SCXW31154275 BCX8&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-variant-ligatures: none !important; color: windowtext; font-size: 12pt; line-height: 20.5042px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot; class=&quot;TextRun SCXW31154275 BCX8&quot; lang=&quot;EN-GB&quot; data-contrast=&quot;auto&quot;&gt;Incorrect student number or password.&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 12pt; line-height: 20.5042px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; color: windowtext;&quot; data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:160,&amp;quot;335559740&amp;quot;:259}&quot; class=&quot;EOP SCXW31154275 BCX8&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 0px 24px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; clear: both; position: relative; direction: ltr; display: block; font-size: 12pt; font-family: Calibri, Calibri_MSFontService, sans-serif; vertical-align: baseline;&quot; class=&quot;OutlineElement Ltr SCXW31154275 BCX8&quot; role=&quot;listitem&quot; data-aria-level=&quot;1&quot; data-aria-posinset=&quot;10&quot; aria-setsize=&quot;-1&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-listid=&quot;3&quot; data-font=&quot;Symbol&quot; data-leveltext=&quot;&quot;&gt;&lt;p style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow-wrap: break-word; vertical-align: baseline; font-kerning: none; background-color: transparent; color: windowtext;&quot; lang=&quot;EN-GB&quot; class=&quot;Paragraph SCXW31154275 BCX8&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-variant-ligatures: none !important; color: windowtext; font-size: 12pt; line-height: 20.5042px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot; class=&quot;TextRun SCXW31154275 BCX8&quot; lang=&quot;EN-GB&quot; data-contrast=&quot;auto&quot;&gt;You have entered the incorrect password too many times, you are now blocked (locked out, contact service provider).&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 12pt; line-height: 20.5042px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; color: windowtext;&quot; data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:160,&amp;quot;335559740&amp;quot;:259}&quot; class=&quot;EOP SCXW31154275 BCX8&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vE6-1PMtYfTRwzguCCtr-160">
+          <mxGeometry x="10" y="27.5" width="437" height="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vE6-1PMtYfTRwzguCCtr-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="vE6-1PMtYfTRwzguCCtr-161" target="vE6-1PMtYfTRwzguCCtr-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vE6-1PMtYfTRwzguCCtr-161" value="Process" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="815" width="310" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="vE6-1PMtYfTRwzguCCtr-168" value="&lt;ul style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; font-family: verdana; font-size: 14.6667px; text-align: left; background-color: rgb(255, 255, 255);&quot; role=&quot;list&quot; class=&quot;BulletListStyle1 SCXW140962187 BCX8&quot;&gt;&lt;li style=&quot;margin: 0px 0px 0px 24px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; clear: both; position: relative; direction: ltr; display: block; font-size: 12pt; font-family: Calibri, Calibri_MSFontService, sans-serif; vertical-align: baseline;&quot; class=&quot;OutlineElement Ltr SCXW140962187 BCX8&quot; role=&quot;listitem&quot; data-aria-level=&quot;1&quot; data-aria-posinset=&quot;4&quot; aria-setsize=&quot;-1&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-listid=&quot;2&quot; data-font=&quot;Symbol&quot; data-leveltext=&quot;&quot;&gt;&lt;p style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow-wrap: break-word; vertical-align: baseline; font-kerning: none; background-color: transparent; color: windowtext;&quot; lang=&quot;EN-GB&quot; class=&quot;Paragraph SCXW140962187 BCX8&quot;&gt;After the user enters the student identification and password,&amp;nbsp;this is sent over to Africa University network and hashed on the server using a copy of the same hashing function. The resulting hash is compared to the hash stored on the password server and student server.&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 12pt; line-height: 20.5042px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; color: windowtext;&quot; data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:160,&amp;quot;335559740&amp;quot;:259}&quot; class=&quot;EOP SCXW140962187 BCX8&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 0px 24px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow: visible; cursor: text; clear: both; position: relative; direction: ltr; display: block; font-size: 12pt; font-family: Calibri, Calibri_MSFontService, sans-serif; vertical-align: baseline;&quot; class=&quot;OutlineElement Ltr SCXW140962187 BCX8&quot; role=&quot;listitem&quot; data-aria-level=&quot;1&quot; data-aria-posinset=&quot;5&quot; aria-setsize=&quot;-1&quot; data-list-defn-props=&quot;{&amp;quot;335552541&amp;quot;:1,&amp;quot;335559683&amp;quot;:0,&amp;quot;335559684&amp;quot;:-2,&amp;quot;335559685&amp;quot;:720,&amp;quot;335559991&amp;quot;:360,&amp;quot;469769226&amp;quot;:&amp;quot;Symbol&amp;quot;,&amp;quot;469769242&amp;quot;:[8226],&amp;quot;469777803&amp;quot;:&amp;quot;left&amp;quot;,&amp;quot;469777804&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;469777815&amp;quot;:&amp;quot;hybridMultilevel&amp;quot;}&quot; data-listid=&quot;2&quot; data-font=&quot;Symbol&quot; data-leveltext=&quot;&quot;&gt;&lt;p style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; overflow-wrap: break-word; vertical-align: baseline; font-kerning: none; background-color: transparent; color: windowtext;&quot; lang=&quot;EN-GB&quot; class=&quot;Paragraph SCXW140962187 BCX8&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; color: windowtext; font-size: 12pt; line-height: 20.5042px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif;&quot; class=&quot;TextRun SCXW140962187 BCX8&quot; lang=&quot;EN-GB&quot; data-contrast=&quot;auto&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent;&quot; class=&quot;NormalTextRun SCXW140962187 BCX8&quot;&gt;The resulting hash will replace&amp;nbsp;the hash stored on the password &lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent;&quot; class=&quot;NormalTextRun SCXW140962187 BCX8&quot;&gt;server, if&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent;&quot; class=&quot;NormalTextRun SCXW140962187 BCX8&quot;&gt; the password has expired.&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; font-size: 12pt; line-height: 20.5042px; font-family: Calibri, Calibri_EmbeddedFont, Calibri_MSFontService, sans-serif; color: windowtext;&quot; data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:160,&amp;quot;335559740&amp;quot;:259}&quot; class=&quot;EOP SCXW140962187 BCX8&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vE6-1PMtYfTRwzguCCtr-161">
+          <mxGeometry x="5" y="30" width="300" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="vE6-1PMtYfTRwzguCCtr-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="vE6-1PMtYfTRwzguCCtr-162" target="vE6-1PMtYfTRwzguCCtr-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
