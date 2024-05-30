@@ -58,3 +58,6 @@ Students will be able to:
 - [JavaTPoint C# Tutorial](https://www.javatpoint.com/c-sharp-tutorial)
 - [edX Programming with C#](https://www.edx.org/course/programming-c-microsoft-dev204x-3)
 - [DotNetPerls](http://www.dotnetperls.com)
+
+### Africa University 2024
+“Investing in Africa’s Future”
