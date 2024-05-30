@@ -1,0 +1,6 @@
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Trigonometry in Radians\Trigonometry in Radians\bin\Debug\Trigonometry in Radians.exe.config
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Trigonometry in Radians\Trigonometry in Radians\bin\Debug\Trigonometry in Radians.exe
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Trigonometry in Radians\Trigonometry in Radians\bin\Debug\Trigonometry in Radians.pdb
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Trigonometry in Radians\Trigonometry in Radians\obj\Debug\Trigonometry in Radians.csprojResolveAssemblyReference.cache
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Trigonometry in Radians\Trigonometry in Radians\obj\Debug\Trigonometry in Radians.exe
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Trigonometry in Radians\Trigonometry in Radians\obj\Debug\Trigonometry in Radians.pdb
