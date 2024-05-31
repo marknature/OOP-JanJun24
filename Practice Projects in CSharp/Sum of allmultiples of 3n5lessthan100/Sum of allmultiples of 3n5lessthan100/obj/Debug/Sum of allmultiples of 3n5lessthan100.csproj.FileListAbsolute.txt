@@ -1,0 +1,6 @@
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Sum of allmultiples of 3n5lessthan100\Sum of allmultiples of 3n5lessthan100\bin\Debug\Sum of allmultiples of 3n5lessthan100.exe.config
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Sum of allmultiples of 3n5lessthan100\Sum of allmultiples of 3n5lessthan100\bin\Debug\Sum of allmultiples of 3n5lessthan100.exe
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Sum of allmultiples of 3n5lessthan100\Sum of allmultiples of 3n5lessthan100\bin\Debug\Sum of allmultiples of 3n5lessthan100.pdb
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Sum of allmultiples of 3n5lessthan100\Sum of allmultiples of 3n5lessthan100\obj\Debug\Sum of allmultiples of 3n5lessthan100.csprojResolveAssemblyReference.cache
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Sum of allmultiples of 3n5lessthan100\Sum of allmultiples of 3n5lessthan100\obj\Debug\Sum of allmultiples of 3n5lessthan100.exe
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Sum of allmultiples of 3n5lessthan100\Sum of allmultiples of 3n5lessthan100\obj\Debug\Sum of allmultiples of 3n5lessthan100.pdb
