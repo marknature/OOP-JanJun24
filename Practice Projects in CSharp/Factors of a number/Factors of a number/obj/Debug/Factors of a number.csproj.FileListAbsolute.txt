@@ -1,0 +1,6 @@
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Factors of a number\Factors of a number\bin\Debug\Factors of a number.exe.config
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Factors of a number\Factors of a number\bin\Debug\Factors of a number.exe
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Factors of a number\Factors of a number\bin\Debug\Factors of a number.pdb
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Factors of a number\Factors of a number\obj\Debug\Factors of a number.csprojResolveAssemblyReference.cache
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Factors of a number\Factors of a number\obj\Debug\Factors of a number.exe
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Factors of a number\Factors of a number\obj\Debug\Factors of a number.pdb

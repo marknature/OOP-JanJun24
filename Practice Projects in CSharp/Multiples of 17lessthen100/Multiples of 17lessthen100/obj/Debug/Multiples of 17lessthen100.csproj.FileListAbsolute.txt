@@ -1,0 +1,6 @@
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Multiples of 17lessthen100\Multiples of 17lessthen100\bin\Debug\Multiples of 17lessthen100.exe.config
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Multiples of 17lessthen100\Multiples of 17lessthen100\bin\Debug\Multiples of 17lessthen100.exe
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Multiples of 17lessthen100\Multiples of 17lessthen100\bin\Debug\Multiples of 17lessthen100.pdb
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Multiples of 17lessthen100\Multiples of 17lessthen100\obj\Debug\Multiples of 17lessthen100.csprojResolveAssemblyReference.cache
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Multiples of 17lessthen100\Multiples of 17lessthen100\obj\Debug\Multiples of 17lessthen100.exe
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Multiples of 17lessthen100\Multiples of 17lessthen100\obj\Debug\Multiples of 17lessthen100.pdb

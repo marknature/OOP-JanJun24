@@ -1,0 +1,12 @@
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Geometry\Geometry\bin\Debug\Geometry.exe.config
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Geometry\Geometry\bin\Debug\Geometry.exe
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Geometry\Geometry\bin\Debug\Geometry.pdb
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Geometry\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Geometry\Geometry\obj\Debug\Geometry.exe
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Geometry\Geometry\obj\Debug\Geometry.pdb
+C:\Users\markn\OneDrive\Documents\Visual Studio 2013\Projects\Exam prep\Geometry\Geometry\bin\Debug\Geometry.exe.config
+C:\Users\markn\OneDrive\Documents\Visual Studio 2013\Projects\Exam prep\Geometry\Geometry\obj\Debug\Geometry.exe
+C:\Users\markn\OneDrive\Documents\Visual Studio 2013\Projects\Exam prep\Geometry\Geometry\obj\Debug\Geometry.pdb
+C:\Users\markn\OneDrive\Documents\Visual Studio 2013\Projects\Exam prep\Geometry\Geometry\bin\Debug\Geometry.exe
+C:\Users\markn\OneDrive\Documents\Visual Studio 2013\Projects\Exam prep\Geometry\Geometry\bin\Debug\Geometry.pdb
+C:\Users\markn\OneDrive\Documents\Visual Studio 2013\Projects\Exam prep\Geometry\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Calculates nPr\Calculates nPr\bin\Debug\Calculates nPr.exe.config
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Calculates nPr\Calculates nPr\bin\Debug\Calculates nPr.exe
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Calculates nPr\Calculates nPr\bin\Debug\Calculates nPr.pdb
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Calculates nPr\Calculates nPr\obj\Debug\Calculates nPr.csprojResolveAssemblyReference.cache
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Calculates nPr\Calculates nPr\obj\Debug\Calculates nPr.exe
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Calculates nPr\Calculates nPr\obj\Debug\Calculates nPr.pdb
