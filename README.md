@@ -39,6 +39,9 @@ Students will be able to:
 9. **Classes and Object-Oriented Design**
 10. **Database Management Systems**
 
+## Course Outline
+- Visual Studio 2013 "Ultimite"
+
 ## Recommended Resources
 ### Textbooks
 1. **Fundamentals of Computer Programming with CSharp** by Nakov, S., et al.
