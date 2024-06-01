@@ -1,0 +1,6 @@
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Diamond Pattern\Diamond Pattern\bin\Debug\Diamond Pattern.exe.config
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Diamond Pattern\Diamond Pattern\bin\Debug\Diamond Pattern.exe
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Diamond Pattern\Diamond Pattern\bin\Debug\Diamond Pattern.pdb
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Diamond Pattern\Diamond Pattern\obj\Debug\Diamond Pattern.csprojResolveAssemblyReference.cache
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Diamond Pattern\Diamond Pattern\obj\Debug\Diamond Pattern.exe
+c:\users\markn\onedrive\documents\visual studio 2013\Projects\Diamond Pattern\Diamond Pattern\obj\Debug\Diamond Pattern.pdb
